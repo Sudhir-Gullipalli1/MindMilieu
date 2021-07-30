@@ -1,0 +1,206 @@
+Sub Realm Id,Realm Id,Name,Business Unit
+28,1,ARFSU,1
+29,1,SWOL DEMO,1
+30,1,MMLSC,1
+39,1,Warringah Triathlon Club,1
+59,1,Football Fives,1
+96,1,Non Affiliated Football,1
+1,2,Leagues,1
+2,2,Auskick,1
+5,2,School Programs,1
+7,2,AFL 9s,1
+8,2,Coaches,1
+9,2,Umpires,1
+15,2,Championships,1
+22,2,Coaches Conference,1
+64,2,Volunteers,1
+65,2,Multicultural,1
+68,2,Kiwi Kick,1
+78,2,Canada Leagues,1
+95,2,Trainers,1
+98,2,Indigenous,1
+101,2,AFL Holiday Programs,1
+108,2,Footy For Mums,1
+116,2,Other,1
+128,2,AFL 9's Juniors,1
+136,2,AFL Active,1
+163,2,Sweden,1
+165,2,Andorra,1
+166,2,Austria,1
+167,2,Belgium,1
+168,2,Croatia,1
+169,2,Czech Republic,1
+170,2,Denmark,1
+171,2,Estonia,1
+172,2,Finland,1
+173,2,France 15388,1
+174,2,Germany 15392,1
+175,2,Greece,1
+176,2,Iceland,1
+177,2,Italy,1
+178,2,Luxembourg,1
+179,2,Malta,1
+180,2,Netherlands,1
+181,2,Norway,1
+182,2,Portugal,1
+183,2,Russia,1
+184,2,Spain,1
+185,2,Switzerland,1
+188,2,United Kingdom,1
+189,2,Ireland,1
+193,2,New Zealand,1
+197,2,European Championships,1
+3,3,QRL,1
+13,3,Coaches,1
+14,3,Referees,1
+18,3,New Zealand,1
+19,3,ARLA,1
+25,3,First Aid Officers,1
+46,3,NRL Game Development,1
+47,3,NDO Competitions,1
+51,3,Country Rugby League,1
+56,3,Test K2K,1
+62,3,Men of League,1
+80,3,Australia,1
+103,3,Accreditation,1
+109,3,One Community,1
+137,3,School Competitions and Programs,1
+145,3,South Africa,1
+146,3,League 4 Life,1
+148,3,Tonga,1
+149,3,Fiji,1
+150,3,Non Club Programs,1
+153,3,QMS,1
+155,3,United Kingdom Touch Leagues,1
+156,3,United Kingdom Leagues and Cups - Community,1
+157,3,United Kingdom Match Officials,1
+158,3,United Kingdom School Leagues,1
+159,3,United Kingdom Accreditations,1
+161,3,United Kingdom Leagues and Cups - Professional,1
+164,3,PNG,1
+190,3,Asia Pacific Rugby League Confederation,1
+199,3,International Fixtures,1
+200,3,RFL - Masters Leagues,1
+205,3,United Kingdom - England Community Lions,1
+119,4,Club Competitions,1
+11,5,H2H,1
+12,5,HockeyEd,1
+42,5,Associations,1
+60,5,Indoor,1
+4,6,AFL TEST,1
+75,6,ARLD TEST,1
+151,6,Programs,1
+162,6,NZ,1
+27,7,Football NSW,1
+36,7,Northern NSWF,1
+57,7,FFA,1
+67,7,Non-Traditional,1
+83,7,FFA Competitions,1
+142,7,MiniRoos,1
+203,7,57,1
+63,10,Victoria,1
+195,10,Quick Stix,1
+194,11,NSW Touch,1
+6,13,Australia,1
+16,13,Canada,2
+20,13,Scotland,2
+23,13,New Zealand,1
+40,13,Aussie Hoops,1
+66,13,Ireland,2
+76,13,Argentina,2
+77,13,Bolivia,2
+86,13,England,2
+87,13,Portugal,2
+88,13,Italy,2
+89,13,Switzerland,2
+90,13,El Salvador,2
+91,13,United Kingdom,2
+92,13,Chile,2
+93,13,Czech Republic,2
+94,13,Mexico,2
+97,13,Poland,2
+99,13,Thailand,2
+100,13,St Kitts and Nevis,2
+102,13,United States,2
+121,13,Belize,2
+134,13,Timor Leste,2
+135,13,South Sudan,2
+186,13,Wales,1
+196,13,AU Accreditation,1
+209,13,Basketball England Programs,1
+210,13,BA Accreditations & Education,1
+211,13,Walking Basketball,1
+212,13,3x3 Community Hustle,1
+213,13,Hoop Nation,1
+214,13,Basketball England National,1
+10,17,FNSW,1
+26,17,Fencing Events,1
+43,17,Victoria,1
+44,17,WA,1
+85,19,Training,1
+58,20,Talent Centres,1
+69,20,Leagues/Clubs,1
+70,20,Coaches,1
+71,20,Referees,1
+72,20,Community,1
+73,20,Futsal,1
+74,20,Schools,1
+104,20,FBNZ - Full Rate,1
+143,20,Fans and Supporters,1
+32,23,Victoria,1
+34,23,South Australia,1
+38,23,NSW Womens,1
+55,23,Forty40,1
+35,27,Referees,1
+54,30,Ten Pin Bowling Australia,1
+31,34,MMLSC,1
+37,34,NZ Events,1
+49,34,MSA,1
+52,34,Events,1
+53,34,Biathlon PS,1
+81,34,AFL NT,1
+84,34,Dreamstart,1
+50,38,Riders,1
+61,46,Netball Demo,1
+204,47,Deaf Sports New Zealand,1
+141,50,Social Football,1
+79,52,UK,1
+82,52,Australia,1
+105,57,Malaysia,2
+106,57,Singapore,2
+107,57,Switzerland,2
+147,57,Other,1
+207,57,South Africa,1
+110,59,Netball,1
+111,59,Water Polo,1
+112,59,Lacrosse,1
+113,59,Basketball,1
+114,59,Touch,1
+123,59,Yachting,1
+115,60,South Africa,2
+122,60,Finland,2
+124,60,Bahrain,2
+125,60,Bolswana,2
+126,60,Brazil,2
+187,60,Wales,1
+208,60,Australia,1
+118,61,Ball,1
+120,61,Rugby Union,1
+127,61,ACU,1
+129,61,Volleyball,1
+130,61,Craigie LC,1
+138,61,Futsal,1
+160,61,New Zealand,1
+192,61,Surf Lifesaving,1
+139,62,myClub,1
+140,62,myClass,1
+144,62,myCentre,1
+152,62,QMS - MyCentre,1
+131,64,Basketball,2
+132,64,Football,2
+133,64,Badminton,2
+202,66,Accreditation,1
+191,67,NZ Tag Football,1
+154,68,Hookin2Hockey,1
+198,71,Kiwi Tag,1
+201,75,University Programs,1
